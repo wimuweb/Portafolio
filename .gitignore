@@ -1,3 +1,9 @@
-# ignorar los docs/
+# ignorar el package.json
+package.json
+package-lock.json
 
+# ignorar el node_modules
+node_modules/
 
+# ignorar los assets 
+assets/
